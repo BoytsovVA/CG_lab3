@@ -1,0 +1,74 @@
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.Compatibility.dll
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.dll
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.dll
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.dll.config
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.Compatibility.dll.config
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.csprojAssemblyReference.cache
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CopyComplete
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+D:\настя\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.Compatibility.dll
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.dll
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.dll
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.dll.config
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.Compatibility.dll.config
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.csprojAssemblyReference.cache
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CopyComplete
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+D:\рабочий стол\настя\Компьютерная гррафика\Ray_Tracing-09b29033c366efa4f8aff78d7f6dba6b1c3f001a\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.Compatibility.dll
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.dll
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.dll
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.dll.config
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.Compatibility.dll.config
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.csprojAssemblyReference.cache
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CopyComplete
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+D:\Users\fakaf\OneDrive\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.dll
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.dll.config
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\Admin\Desktop\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Admin\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+C:\Users\Admin\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+C:\Users\Admin\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CopyComplete
+C:\Users\Admin\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+C:\Users\Admin\Desktop\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
