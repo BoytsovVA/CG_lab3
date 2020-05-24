@@ -164,11 +164,11 @@ void initializeDefaultLightMaterials(out SLight light)
 	materials[2].RefractionCoef = 1.0;
 	materials[2].MaterialType = DIFFUSE_REFLECTION;
 
-	materials[3].Color = vec3(1.0, 0,0);	//правая грань
+	materials[3].Color = vec3(1.0, 0.0, 0.0);	//правая грань
 	materials[3].LightCoeffs = vec4(lightCoefs);
 	materials[3].ReflectionCoef = 0.5;
 	materials[3].RefractionCoef = 1.0;
-	materials[3].MaterialType = DIFFUSE_REFLECTION;
+	materials[3].MaterialType = MIRROR_REFLECTION;
 
 	materials[4].Color = vec3(0, 1.0, 0);	//нижняя грань
 	materials[4].LightCoeffs = vec4(lightCoefs);
@@ -698,7 +698,7 @@ void main( void )
 					vec3 refractionRayOrig = intersect.Point + EPSILON * refractionDirection;
 					STracingRay refractRay = STracingRay(SRay(refractionRayOrig, refractionDirection), trRay.contribution, trRay.depth + 1);
 					
-					if (refractRay.depth <= 6) {
+					if (refractRay.depth <= 2) {
 						push(refractRay);
 					}
 				}
