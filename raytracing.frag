@@ -222,9 +222,9 @@ void initializeDefaultLightMaterials(out SLight light)
 	if (BigSphere == vec3(0.0, 0.0, 1.0))
 		materials[7].MaterialType = REFRACTION;
 	else if (BigSphere == vec3(1.0, 0.0, 0.0))
-		materials[7].MaterialType = REFRACTION;
+		materials[7].MaterialType = DIFFUSE_REFLECTION;
 	else 
-		materials[7].MaterialType = REFRACTION;
+		materials[7].MaterialType = MIRROR_REFLECTION;
 
 	materials[11].Color = ColTet1;						//материал для тетраэдра 1
 	materials[11].LightCoeffs = vec4(lightCoefs);
@@ -233,9 +233,9 @@ void initializeDefaultLightMaterials(out SLight light)
 	if (Tet == vec3(0.0, 0.0, 1.0))
 		materials[11].MaterialType = REFRACTION;
 	else if (Tet == vec3(1.0, 0.0, 0.0))
-		materials[11].MaterialType = REFRACTION;
+		materials[11].MaterialType = DIFFUSE_REFLECTION;
 	else 
-		materials[11].MaterialType = REFRACTION;
+		materials[11].MaterialType = MIRROR_REFLECTION;
 
 		materials[12].Color = ColTet2;					//материал для тетраэдра 2
 	materials[12].LightCoeffs = vec4(lightCoefs);
@@ -244,9 +244,9 @@ void initializeDefaultLightMaterials(out SLight light)
 	if (Tet == vec3(0.0, 0.0, 1.0))
 		materials[12].MaterialType = REFRACTION;
 	else if (Tet == vec3(1.0, 0.0, 0.0))
-		materials[12].MaterialType = REFRACTION;
+		materials[12].MaterialType = DIFFUSE_REFLECTION;
 	else 
-		materials[12].MaterialType = REFRACTION;
+		materials[12].MaterialType = MIRROR_REFLECTION;
 }
 
 void initializeDefaultScene()
